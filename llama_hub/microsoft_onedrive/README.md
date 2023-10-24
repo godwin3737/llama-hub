@@ -52,6 +52,8 @@ You can extract a file_id directly from its preview URL.
 
 For example, the file_id of `https://onedrive.live.com/?cid=0B5AF52BE769DFDE4&id=B5AF52B769DFDE4%216106&parId=root&o=OneUp` is `B5AF52B769DFDE4%216106`.
 
+### Example Usage:
+
 ```python
 from llama_index import download_loader
 
@@ -95,9 +97,9 @@ For example:
 
 The relatve path of files from the root folder(Documents).
 
-For example, the path of file "demo_doc.docx" within test subfolder from previous example with url of `https://foobar-my.sharepoint.com/personal/godwin_foobar_onmicrosoft_com/_layouts/15/onedrive.aspx?id=/personal/godwin_foobar_onmicrosoft_com/Documents/drice%20co/test/demo_doc.docx` is `drice%20co/test/demo_doc.docx` or `drice co/test/demo_doc.docx`.
+For example, the path of file "demo_doc.docx" within test subfolder from previous example with url of `https://foobar-my.sharepoint.com/personal/godwin_foobar_onmicrosoft_com/_layouts/15/onedrive.aspx?id=/personal/godwin_foobar_onmicrosoft_com/Documents/drice%20co/test/demo_doc.docx` is `drice%20co/test/demo_doc.docx` or `**drice co/test/demo_doc.docx**`.
 
-
+### Example Usage:
 
 ```python
 from llama_index import download_loader
