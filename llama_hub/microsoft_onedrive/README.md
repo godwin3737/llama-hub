@@ -30,7 +30,7 @@ OneDriveReader supports following two **MSAL authentication**:
  - This mode of authnetication is not supported by Microsoft currently for OneDrive Personal, hence this can be used only for OneDrive for Business(Microsoft 365).
  - API Permission required for registered app: 
    > Microsoft Graph --> Application Permissions -- > Files.Read.All (**Grant Admin Consent**)
-  -----
+  
    > Microsoft Graph --> Application Permissions -- > User.Read.All (**Grant Admin Consent**)
 
 ## Usage
