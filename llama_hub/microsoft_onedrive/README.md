@@ -93,9 +93,9 @@ The relative pathof subfolder from the root folder(Documents).
 
 For example:
 
-- The path of 1st level subfolder with name "drice co" (within root folder) with URL  of `https://foobar-my.sharepoint.com/personal/godwin_foobar_onmicrosoft_com/_layouts/15/onedrive.aspx?id=/personal/godwin_foobar_onmicrosoft_com/Documents/drice%20co/test` is `drice%20co` or `drice co`.
+- The path of 1st level subfolder with name "drice co" (within root folder) with URL  of `https://foobar-my.sharepoint.com/personal/godwin_foobar_onmicrosoft_com/_layouts/15/onedrive.aspx?id=/personal/godwin_foobar_onmicrosoft_com/Documents/drice%20co/test` is **drice%20co**.
 
-- The path of 2nd level subfolder "test" (within drice co subfolder) with URL  of `https://foobar-my.sharepoint.com/personal/godwin_foobar_onmicrosoft_com/_layouts/15/onedrive.aspx?id=/personal/godwin_foobar_onmicrosoft_com/Documents/drice%20co/test` is `drice%20co/test` or `drice co/test`.
+- The path of 2nd level subfolder "test" (within drice co subfolder) with URL  of `https://foobar-my.sharepoint.com/personal/godwin_foobar_onmicrosoft_com/_layouts/15/onedrive.aspx?id=/personal/godwin_foobar_onmicrosoft_com/Documents/drice%20co/test` is **drice%20co/test**.
 
 #### file_path
 
