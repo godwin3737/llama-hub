@@ -121,6 +121,15 @@
     "id": "file/markdown",
     "author": "hursh-desai"
   },
+  "MainContentExtractorReader": {
+    "id": "web/main_content_extractor",
+    "author": "HawkClaws",
+    "keywords":[
+      "main content extractor",
+      "web",
+      "web reader"
+    ]
+  },
   "AudioTranscriber": {
     "id": "file/audio",
     "author": "ravi03071991"
@@ -984,7 +993,10 @@
       "collaborators"
     ]
   },
-
+  "LilacReader": {
+    "id": "lilac_reader",
+    "author": "nsthorat"
+  },
   "IMDBReviews":{
     "id": "imdb_review",
     "author": "Athe-kunal",
@@ -1029,6 +1041,16 @@
       "datalake"
     ]
   },
+  "OpenAlexReader": {
+    "id": "openalex",
+    "author": "shauryr",
+    "keywords": [
+      "scientific papers",
+      "openalex",
+      "open access",
+      "academic papers"
+    ]
+  },
   "PatentsviewReader": {
     "id": "patentsview",
     "author": "shao-shuai",
@@ -1063,6 +1085,46 @@
       "onedrive for business",
       "microsoft 365",
       "microsoft365"
+    ]
+  },
+  "TrafilaturaWebReader": {
+    "id": "web/trafilatura_web",
+    "author": "NA",
+    "keywords":[
+      "trafilatura",
+      "web",
+      "web reader"
+    ]
+  },
+  "StripeDocsReader": {
+    "id": "stripe_docs",
+    "author": "amorriscode",
+    "keywords":[
+      "stripe",
+      "documentation"
+    ]
+  },
+  "EarningsCallTranscript":{
+    "id":"earnings_call_transcript",
+    "author": "Athe-kunal",
+    "keywords": [
+      "Finance",
+      "Investor",
+      "Earning calls"
+    ]
+  },
+  "OpensearchReader": {
+    "id": "opensearch",
+    "author": "chnsagitchen"
+  },
+  "DocstringWalker": {
+    "id": "docstring_walker",
+    "author": "Filip Wojcik",
+    "keywords": [
+      "docstring",
+      "python",
+      "code",
+      "source code"
     ]
   }
 }
